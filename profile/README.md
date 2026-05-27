@@ -3,7 +3,7 @@
 		<img class="projectLogo" src="public/logo.svg" alt="Caret Labs" title="Caret Labs" width="480" height="150">
 	</a>
 	<div class="projectDesc">
-		At Caret Labs, we turn <code>code</code> into <sub><img src="public/gold.svg" alt="gold" height="17px" /></sub>.
+		At Caret Labs, we turn <code>code</code> into <sub><img src="public/gold.svg" alt="gold" height="16px" /></sub>.
 	</div>
 </div>
 
