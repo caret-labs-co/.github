@@ -4,9 +4,10 @@
 	</a>
 	<div class="projectDesc">
 		<strong>
-			At Caret Labs, we turn <code>code</code> into <sub><img src="public/gold.svg" alt="gold" height="17px" /></sub>.
+			At Caret Labs, we turn <code>code</code> into <sub><img src="public/gold.svg" alt="gold" height="16px" /></sub>.
 		</strong>
 	</div>
+	<br/>
 	<br/>
 </div>
 
