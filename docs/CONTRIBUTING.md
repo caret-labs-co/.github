@@ -8,7 +8,7 @@ Check the README first to see if this project accepts contributions. Most of my 
 
 ## Reporting Issues
 
-Not a coder? See the [support resources](https://github.com/caret-collective/.github/blob/main/docs/SUPPORT.md) for information on how to:
+Not a coder? See the [support resources](https://github.com/caret-labs-co/.github/blob/main/docs/SUPPORT.md) for information on how to:
 
 - request features
 - report bugs

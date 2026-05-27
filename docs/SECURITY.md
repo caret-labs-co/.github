@@ -6,7 +6,7 @@ If you discover a critical security vulnerability, please **do not** open an iss
 
 Instead, **report the vulnerability privately** via the <kbd>Security</kbd> tab so I have an opportunity to fix the issue before it is publicly disclosed. Thanks :)
 
-**Link:** [github.com/caret-collective/REPO/security](https://github.com/caret-collective/REPO/security)
+**Link:** [github.com/caret-labs-co/REPO/security](https://github.com/caret-labs-co/REPO/security)
 
 ## Contact
 

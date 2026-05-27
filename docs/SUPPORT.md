@@ -7,7 +7,7 @@ Need help with the project? Here are some ways to get support.
 You can **create an issue** via the <kbd>Issues</kbd> tab to request a new feature or report a problem
 with the project. Make sure a similar issue doesn't already exist.
 
-**Link:** [github.com/caret-collective/REPO/issues](https://github.com/caret-collective/tally-ts/issues)
+**Link:** [github.com/caret-labs-co/REPO/issues](https://github.com/caret-labs-co/tally-ts/issues)
 
 ### Feature Requests
 
@@ -34,13 +34,13 @@ The more information you provide, the easier it will be to debug the issue.
 
 If you have a question about the project, please **start a discussion** via the <kbd>Discussions</kbd> tab.
 
-**Link:** [github.com/caret-collective/REPO/discussions](https://github.com/caret-collective/tally-ts/discussions)
+**Link:** [github.com/caret-labs-co/REPO/discussions](https://github.com/caret-labs-co/tally-ts/discussions)
 
 ## Security Vulnerabilities
 
 If you discover a security vulnerability, please **refer to the security policy** in the <kbd>Security</kbd> tab for details on reporting it.
 
-**Link:** [github.com/caret-collective/REPO/security](https://github.com/caret-collective/REPO/security)
+**Link:** [github.com/caret-labs-co/REPO/security](https://github.com/caret-labs-co/REPO/security)
 
 ## Contact
 
