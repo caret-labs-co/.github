@@ -1,6 +1,9 @@
 <div align="center">
 	<a href="https://caretlabs.co" title="Caret Labs">
-		<img class="projectLogo" src="https://raw.githubusercontent.com/caret-labs-co/brand-assets/main/logo.svg" alt="Caret Labs" title="Caret Labs" width="512" height="128">
+		<picture>
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caret-labs-co/brand-assets/main/logo-light.svg">
+			<img class="projectLogo" src="https://raw.githubusercontent.com/caret-labs-co/brand-assets/main/logo.svg" alt="Caret Labs" title="Caret Labs" width="512" height="128">
+		</picture>
 	</a>
 	<div class="projectDesc">
 		<strong>
