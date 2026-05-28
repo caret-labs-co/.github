@@ -1,10 +1,10 @@
 <div align="center">
 	<a href="https://caretlabs.co" title="Caret Labs">
-		<img class="projectLogo" src="public/logo.svg" alt="Caret Labs" title="Caret Labs" width="512" height="128">
+		<img class="projectLogo" src="https://raw.githubusercontent.com/caret-labs-co/brand-assets/main/logo.svg" alt="Caret Labs" title="Caret Labs" width="512" height="128">
 	</a>
 	<div class="projectDesc">
 		<strong>
-			At Caret Labs, we turn <code>code</code> into <sub><img src="public/gold.svg" alt="gold" height="16px" /></sub>.
+			At Caret Labs, we turn <code>code</code> into <sub><img src="https://raw.githubusercontent.com/caret-labs-co/brand-assets/main/gold.svg" alt="gold" height="16px" /></sub>.
 		</strong>
 	</div>
 	<br/>
