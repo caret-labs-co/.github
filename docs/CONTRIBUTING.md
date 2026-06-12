@@ -4,7 +4,7 @@ Thanks for your interest in contributing to the project! We don't have a specifi
 
 ## Open to Contributions?
 
-Check the README first to see if this project accepts contributions. Most of my projects do, but some projects are not maintained or are for personal use only. If you're not sure, **create a dicussion** to ask.
+Check the README first to see if this project accepts contributions. Most of my projects do, but some projects are not maintained or are for personal use only. If you're not sure, **create a discussion** to ask.
 
 ## Reporting Issues
 
@@ -17,9 +17,9 @@ Not a coder? See the [support resources](https://github.com/caret-labs-co/.githu
 
 ## Finding Issues to Work On
 
-Issues with the `🟢 ready` type are ready to be worked on. If you comment on an issue, I can assign it to you.
+Issues with the Stage field set to `🟢 ready` are ready to be worked on. If you comment on an issue, I can assign it to you.
 
-Issues without a type generally need some more information before they can be worked on, but if you
+Issues without a ready Stage generally need some more information before they can be worked on, but if you
 **start a discussion** about it or leave a comment on the issue, I can likely get it ready for you.
 
 If an issue is unclear or you have any questions about how a feature should be implemented, reach out before making any
